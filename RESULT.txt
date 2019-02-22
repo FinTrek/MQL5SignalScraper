@@ -1,0 +1,28 @@
+cost:33
+user:RUSSIAN SEKRET
+aouthor:Igor Gordeev
+aouthorLink:https://www.mql5.com/en/users/igorg599
+Maximum_drawdown:33.4%
+profit_trades:100%
+loss_trades:0%
+leverage:1:500
+growth:86.35%
+initial_deposit:777.00 USD
+balance:1022.10 USD
+trading_days:19 (29.23%)
+trades_per_week:0
+Avg_holding_time:5 hours
+weeks:10
+started:2018.11.15 00:36:00
+latest_trade:11 days ago
+subscribers:0
+trading_history_csv_link:https://www.mql5.com/en/signals/500005/export/history
+trades:55
+gross_profit:623.62 USD (4844 pips)
+gross_loss:0.00 USD
+sharp_ratio:2.66
+max_deposit_load:25.72%
+long_trades:19 (34.55%)
+short_trades:36 (65.45%)
+average_profit:11.34 USD
+average_loss:0.00 USD
