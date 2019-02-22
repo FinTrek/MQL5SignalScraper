@@ -11,9 +11,9 @@ In the link above the id is 500005.
 
 3 --> Now open the INPUT.txt file and fill the form with your information.
 
-Warning : you need to be a member of this site so if you haven't signed up yet, you must !
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` Warning : you need to be a member of this site so if you haven't signed up yet, you must !
 
 4 --> After filling the form you can run the main.py file so it will save the information in the selected location
 Now there is going to be a new text file (RESULT.txt) in the path that you selected.
 
-Warning : if there is any file with this name in that location it will be replaced.
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` Warning : if there is any file with this name in that location it will be replaced.
